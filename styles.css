@@ -1,0 +1,10 @@
+fieldset {
+    color: royalblue;
+    border-color: gold;
+    border-width: 5px;
+    background-color: rgba(255, 255, 255, 0.51);
+    margin-right: 800px;
+}
+html {
+    background-image: url("sdohs.jpeg");
+}
