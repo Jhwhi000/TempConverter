@@ -1,0 +1,12 @@
+fieldset {
+    color: black;
+    border-color: gold;
+    border-width: 5px;
+    background-color: rgba(255, 255, 255, 0.51);
+    margin-right: 700px;
+    background-image: url("hot.jpg");
+}
+html {
+
+    background-image: url("cold.jpeg");
+}
